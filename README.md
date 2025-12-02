@@ -5,6 +5,8 @@
   <img src=".png" alt="" width="600">
 </p>
 
+Zhang, Weiwei, Nilay Kumar, Jessica R. Helwig, Alexis Hoerter, Anjali S. Iyer-Pascuzzi, David M. Umulis, Elsje Pienaar, and Christopher J. Staiger. "Local traveling waves of cytosolic Ca2+ elicited by defense signals or wounding are propagated by distinct mechanisms in Arabidopsis." Sci. Signal.18,eadw2270(2025).DOI:10.1126/scisignal.adw2270
+
 ## Details of experimental data analysis
 
 
@@ -44,4 +46,5 @@ Senior Scientist
 Plant Cell Biologist
 Department of Biological Sciences
 Purdue University, West Lafayette, IN
+
 Email: zhan2190@purdue.edu
